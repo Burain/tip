@@ -2,7 +2,7 @@
  * Author: GJ-Chen
  * Date: 2017.11.27
  * Email: ab140140@163.com
- * Description: loading-animation
+ * Description: tips
  * 
  */
 
